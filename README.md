@@ -8,7 +8,7 @@ The objective of this project is to build and evaluate a CNN capable of predicti
 ---
 
 ## Dataset
-- Source: Kaggle (https://www.kaggle.com/datasets/hendryhb/batik-nusantara-batik-indonesia-dataset)
+- Source: [Kaggle Batik dataset] (https://www.kaggle.com/datasets/hendryhb/batik-nusantara-batik-indonesia-dataset)
 - Total classes: 20 batik motifs
 - Images organized by class folders
 - Separate training and testing sets
